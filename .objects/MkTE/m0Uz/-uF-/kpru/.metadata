@@ -1,0 +1,14 @@
+﻿{
+  "Name": "INPUT FtsiB",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "kprufp9w10Csuy6zQKSlzA",
+  "Reference": "PKfVNRWvW0m6t9EkWtKZyA/kprufp9w10Csuy6zQKSlzA",
+  "ParentRef": "PKfVNRWvW0m6t9EkWtKZyA/-uF-nnhnxEKaGYnytC75Lg",
+  "Created": "2025-10-23T18:15:26.5549493Z",
+  "Updated": "2025-10-23T18:15:26.5549493Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

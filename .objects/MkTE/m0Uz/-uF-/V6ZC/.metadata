@@ -1,0 +1,14 @@
+﻿{
+  "Name": "INPUT CpHHY",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "V6ZCGMzS50uG_HkK53Y1yA",
+  "Reference": "PKfVNRWvW0m6t9EkWtKZyA/V6ZCGMzS50uG_HkK53Y1yA",
+  "ParentRef": "PKfVNRWvW0m6t9EkWtKZyA/-uF-nnhnxEKaGYnytC75Lg",
+  "Created": "2025-10-23T18:17:32.1205977Z",
+  "Updated": "2025-10-23T18:17:32.1205977Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
